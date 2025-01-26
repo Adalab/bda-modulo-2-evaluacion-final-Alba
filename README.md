@@ -11,7 +11,7 @@
 
 - Ejecutar las consultas para observar los resultados.
 
-## Consultas a realizar:
+## Consultas realizadas:
 1. Selecciona todos los nombres de las películas sin que aparezcan duplicados.
 2. Muestra los nombres de todas las películas que tengan una clasificación de "PG-13".
 3. Encuentra el título y la descripción de todas las películas que contengan la palabra "amazing" en su
